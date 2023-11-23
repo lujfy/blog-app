@@ -11,7 +11,8 @@ import CreatePost from './pages/CreatePost'
 import IndexPage from './pages/IndexPage'
 import PostPage from './pages/PostPage'
 import EditPost from './pages/EditPost'
-import { UserContextProvider } from './context/userContext'
+import { UserContextProvider } from './UserContext'
+
 
 
 

@@ -1,7 +1,8 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Link, useParams  } from 'react-router-dom'
 import { formatISO9075 } from 'date-fns'
-import { UserContext } from '../context/userContext'
+import { UserContext } from '../UserContext'
+
 
 function PostPage() {
 
