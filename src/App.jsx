@@ -6,11 +6,12 @@ import { Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import LoginPage from './pages/LoginPage'
 import RegisterPage from './pages/RegisterPage'
-import { UserContextProvider } from './context/userContext'
+
 import CreatePost from './pages/CreatePost'
 import IndexPage from './pages/indexPage'
 import PostPage from './pages/PostPage'
 import EditPost from './pages/EditPost'
+import { UserContextProvider } from './context/userContext'
 
 
 
